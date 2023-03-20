@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #e14647;
+  margin: 0;
+}
+
+h2 {
+  background-color: #e14647;
+  padding: 18px;
+  color: #ffffff;
+  font-size: 30px;
+}
+
+.App {
+  padding: 40px;
+  background-color: #fff;
+  width: 80%;
+  margin: 70px auto;
+  box-shadow: 1px 2px 5px #eee;
+}
+
+input {
+  width: 80%;
+  border: 0;
+  padding: 15px 10px ;
+  background-color: #e8e8e8;
+  font-size: 20px;
+}
+
+button {
+  width: 20%;
+  border: 0;
+  padding: 15px 0;
+  margin: 0;
+  outline: 0;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: #4dc55b;
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+li span {
+  display: inline-block;
+  width: 60%;
+  color: #6a6a6a;
+}
+
+li > button:first-of-type {
+  background-color: #6a6a6a;
+  color: #fff;
+  margin-right: 1%;
+  width: 19%;
+  font-size: 20px;
+}
+
+li > button:last-of-type {
+  background-color: #d9534f;
+  color: #fff;
+  font-size: 20px;
+}
+
+ul > form {
+  margin: 15px 0;
+}
+
+.msg {
+  font-size: 40px;
+  text-align: center;
+  color: red;;
+}
+
