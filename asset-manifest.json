@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoursesList-App-With-React/static/css/main.31511acb.css",
+    "main.js": "/CoursesList-App-With-React/static/js/main.a38b47f0.js",
+    "static/js/787.361fba96.chunk.js": "/CoursesList-App-With-React/static/js/787.361fba96.chunk.js",
+    "index.html": "/CoursesList-App-With-React/index.html",
+    "main.31511acb.css.map": "/CoursesList-App-With-React/static/css/main.31511acb.css.map",
+    "main.a38b47f0.js.map": "/CoursesList-App-With-React/static/js/main.a38b47f0.js.map",
+    "787.361fba96.chunk.js.map": "/CoursesList-App-With-React/static/js/787.361fba96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31511acb.css",
+    "static/js/main.a38b47f0.js"
+  ]
+}
